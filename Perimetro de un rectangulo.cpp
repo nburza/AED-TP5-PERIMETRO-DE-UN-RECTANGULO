@@ -21,6 +21,6 @@ double GetNumeroPositivo(){
 	}while(numero<=0);
 }
 
-double GetPerimetro(h, b){
+double GetPerimetro(double, double){
 	2*(b+h);
 }
