@@ -17,10 +17,10 @@ int main (){
 double GetNumeroPositivo(){
 	double numero;
 	do{
-		cin>>numero;
+	cin>>numero;
 	}while(numero<=0);
+	return numero;
 }
-
-double GetPerimetro(double, double){
-	2*(b+h);
+double GetPerimetro(double b, double h){
+	return 2*(b + h);
 }
